@@ -8,6 +8,8 @@ Bu proje, öğrencilerin final notlarının çeşitli değişkenlerle ne kadar i
 Gibi soruların cevaplarını, çeşitli analiz yöntemleri, grafikler vs. kullanarak açıkladığım bir projedir.
 
 # Projede Kullanılan Yöntemler
+- Veri setinin yapısının incelenmesi
+- Eksik değer ve aykırı değer kontrolü
 - Tek değişkenli analiz
 - İki değişkenli analiz
 - Çok değişkenli analiz
