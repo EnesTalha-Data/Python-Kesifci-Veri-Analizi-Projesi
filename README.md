@@ -7,6 +7,12 @@ Bu proje, öğrencilerin final notlarının çeşitli değişkenlerle ne kadar i
 
 Gibi soruların cevaplarını, çeşitli analiz yöntemleri, grafikler vs. kullanarak açıkladığım bir projedir.
 
+# Projede Kullanılan Yöntemler
+- Tek değişkenli analiz
+- İki değişkenli analiz
+- Çok değişkenli analiz
+- Veri görselleştirme
+- Tanımlayıcı istatistikler
 # Veri İçeriklerinin Açıklamaları
 school – Öğrencinin okulu
 
